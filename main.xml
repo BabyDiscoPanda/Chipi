@@ -1,0 +1,23 @@
+<mod name="BND">
+    <Hooks>
+		<hook source_file="lib/managers/hud/hudblackscreen" file="vid.lua"/>
+    </Hooks>
+    <AddFiles>
+		<movie path="vid1" force="true"/>
+    </AddFiles>
+    <AddFiles>
+		<movie path="vid2" force="true"/>
+    </AddFiles>
+    <AddFiles>
+		<movie path="vid3" force="true"/>
+    </AddFiles>
+    <AddFiles>
+		<movie path="vid4" force="true"/>
+    </AddFiles>
+    <AddFiles>
+		<movie path="vid5" force="true"/>
+    </AddFiles>
+    <AddFiles>
+		<movie path="vid6" force="true"/>
+    </AddFiles>
+</mod>
